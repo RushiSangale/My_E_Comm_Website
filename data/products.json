@@ -1,0 +1,818 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 14",
+    "price": 75000,
+    "image": "https://picsum.photos/300?1",
+    "description": "Apple iPhone 14 with powerful A15 chip",
+    "url": "product-details.html?id=1"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S22",
+    "price": 65000,
+    "image": "https://picsum.photos/300?2",
+    "description": "Flagship Samsung phone with AMOLED display",
+    "url": "product-details.html?id=2"
+  },
+  {
+    "id": 3,
+    "name": "OnePlus 11",
+    "price": 60000,
+    "image": "https://picsum.photos/300?3",
+    "description": "Fast and smooth performance with Snapdragon",
+    "url": "product-details.html?id=3"
+  },
+  {
+    "id": 4,
+    "name": "Realme GT Neo",
+    "price": 30000,
+    "image": "https://picsum.photos/300?4",
+    "description": "Budget gaming phone with powerful processor",
+    "url": "product-details.html?id=4"
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi Redmi Note 12",
+    "price": 18000,
+    "image": "https://picsum.photos/300?5",
+    "description": "Affordable smartphone with great battery life",
+    "url": "product-details.html?id=5"
+  },
+  {
+    "id": 6,
+    "name": "HP Pavilion Laptop",
+    "price": 55000,
+    "image": "https://picsum.photos/300?6",
+    "description": "Lightweight laptop for daily work",
+    "url": "product-details.html?id=6"
+  },
+  {
+    "id": 7,
+    "name": "Dell Inspiron 15",
+    "price": 52000,
+    "image": "https://picsum.photos/300?7",
+    "description": "Reliable laptop with good performance",
+    "url": "product-details.html?id=7"
+  },
+  {
+    "id": 8,
+    "name": "MacBook Air M1",
+    "price": 90000,
+    "image": "https://picsum.photos/300?8",
+    "description": "Apple laptop with M1 chip and long battery",
+    "url": "product-details.html?id=8"
+  },
+  {
+    "id": 9,
+    "name": "Asus ROG Gaming Laptop",
+    "price": 110000,
+    "image": "https://picsum.photos/300?9",
+    "description": "High-end gaming laptop with RTX graphics",
+    "url": "product-details.html?id=9"
+  },
+  {
+    "id": 10,
+    "name": "Lenovo IdeaPad 3",
+    "price": 40000,
+    "image": "https://picsum.photos/300?10",
+    "description": "Affordable laptop for students",
+    "url": "product-details.html?id=10"
+  },
+  {
+    "id": 11,
+    "name": "Boat Airdopes 141",
+    "price": 1500,
+    "image": "https://picsum.photos/300?11",
+    "description": "Wireless earbuds with good bass",
+    "url": "product-details.html?id=11"
+  },
+  {
+    "id": 12,
+    "name": "Noise Buds VS104",
+    "price": 1200,
+    "image": "https://picsum.photos/300?12",
+    "description": "Affordable earbuds with long battery",
+    "url": "product-details.html?id=12"
+  },
+  {
+    "id": 13,
+    "name": "Sony WH-1000XM4",
+    "price": 25000,
+    "image": "https://picsum.photos/300?13",
+    "description": "Premium noise cancelling headphones",
+    "url": "product-details.html?id=13"
+  },
+  {
+    "id": 14,
+    "name": "JBL Flip 5",
+    "price": 8000,
+    "image": "https://picsum.photos/300?14",
+    "description": "Portable Bluetooth speaker",
+    "url": "product-details.html?id=14"
+  },
+  {
+    "id": 15,
+    "name": "Mi Bluetooth Speaker",
+    "price": 2500,
+    "image": "https://picsum.photos/300?15",
+    "description": "Compact speaker with clear sound",
+    "url": "product-details.html?id=15"
+  },
+  {
+    "id": 16,
+    "name": "Samsung Smart TV 43\"",
+    "price": 35000,
+    "image": "https://picsum.photos/300?16",
+    "description": "Full HD smart TV with streaming apps",
+    "url": "product-details.html?id=16"
+  },
+  {
+    "id": 17,
+    "name": "LG OLED TV",
+    "price": 120000,
+    "image": "https://picsum.photos/300?17",
+    "description": "Premium OLED display with stunning quality",
+    "url": "product-details.html?id=17"
+  },
+  {
+    "id": 18,
+    "name": "Sony Bravia 55\"",
+    "price": 90000,
+    "image": "https://picsum.photos/300?18",
+    "description": "4K Ultra HD smart TV",
+    "url": "product-details.html?id=18"
+  },
+  {
+    "id": 19,
+    "name": "Mi TV 5X",
+    "price": 45000,
+    "image": "https://picsum.photos/300?19",
+    "description": "Affordable 4K smart TV",
+    "url": "product-details.html?id=19"
+  },
+  {
+    "id": 20,
+    "name": "OnePlus TV Y1",
+    "price": 30000,
+    "image": "https://picsum.photos/300?20",
+    "description": "Smart TV with good sound quality",
+    "url": "product-details.html?id=20"
+  },
+  {
+    "id": 21,
+    "name": "Nike Running Shoes",
+    "price": 5000,
+    "image": "https://picsum.photos/300?21",
+    "description": "Comfortable running shoes",
+    "url": "product-details.html?id=21"
+  },
+  {
+    "id": 22,
+    "name": "Adidas Sneakers",
+    "price": 4500,
+    "image": "https://picsum.photos/300?22",
+    "description": "Stylish everyday sneakers",
+    "url": "product-details.html?id=22"
+  },
+  {
+    "id": 23,
+    "name": "Puma Sports Shoes",
+    "price": 4000,
+    "image": "https://picsum.photos/300?23",
+    "description": "Durable sports shoes",
+    "url": "product-details.html?id=23"
+  },
+  {
+    "id": 24,
+    "name": "Woodland Boots",
+    "price": 6000,
+    "image": "https://picsum.photos/300?24",
+    "description": "Rugged outdoor boots",
+    "url": "product-details.html?id=24"
+  },
+  {
+    "id": 25,
+    "name": "Campus Casual Shoes",
+    "price": 1500,
+    "image": "https://picsum.photos/300?25",
+    "description": "Budget-friendly casual shoes",
+    "url": "product-details.html?id=25"
+  },
+  {
+    "id": 26,
+    "name": "Levi's Jeans",
+    "price": 3000,
+    "image": "https://picsum.photos/300?26",
+    "description": "Classic denim jeans",
+    "url": "product-details.html?id=26"
+  },
+  {
+    "id": 27,
+    "name": "Allen Solly Shirt",
+    "price": 2000,
+    "image": "https://picsum.photos/300?27",
+    "description": "Formal shirt for office wear",
+    "url": "product-details.html?id=27"
+  },
+  {
+    "id": 28,
+    "name": "Peter England T-Shirt",
+    "price": 1200,
+    "image": "https://picsum.photos/300?28",
+    "description": "Comfortable cotton t-shirt",
+    "url": "product-details.html?id=28"
+  },
+  {
+    "id": 29,
+    "name": "Zara Jacket",
+    "price": 5000,
+    "image": "https://picsum.photos/300?29",
+    "description": "Stylish winter jacket",
+    "url": "product-details.html?id=29"
+  },
+  {
+    "id": 30,
+    "name": "H&M Hoodie",
+    "price": 2500,
+    "image": "https://picsum.photos/300?30",
+    "description": "Warm and comfortable hoodie",
+    "url": "product-details.html?id=30"
+  },
+  {
+    "id": 31,
+    "name": "Apple Watch Series 8",
+    "price": 45000,
+    "image": "https://picsum.photos/300?31",
+    "description": "Smartwatch with health tracking",
+    "url": "product-details.html?id=31"
+  },
+  {
+    "id": 32,
+    "name": "Samsung Galaxy Watch",
+    "price": 25000,
+    "image": "https://picsum.photos/300?32",
+    "description": "Smartwatch with fitness features",
+    "url": "product-details.html?id=32"
+  },
+  {
+    "id": 33,
+    "name": "Noise ColorFit Pro",
+    "price": 4000,
+    "image": "https://picsum.photos/300?33",
+    "description": "Budget fitness smartwatch",
+    "url": "product-details.html?id=33"
+  },
+  {
+    "id": 34,
+    "name": "Boat Xtend Smartwatch",
+    "price": 3500,
+    "image": "https://picsum.photos/300?34",
+    "description": "Affordable smartwatch with Alexa",
+    "url": "product-details.html?id=34"
+  },
+  {
+    "id": 35,
+    "name": "Fire-Boltt Ninja",
+    "price": 2000,
+    "image": "https://picsum.photos/300?35",
+    "description": "Entry-level smartwatch",
+    "url": "product-details.html?id=35"
+  },
+  {
+    "id": 36,
+    "name": "Canon DSLR Camera",
+    "price": 55000,
+    "image": "https://picsum.photos/300?36",
+    "description": "Professional DSLR camera",
+    "url": "product-details.html?id=36"
+  },
+  {
+    "id": 37,
+    "name": "Nikon D5600",
+    "price": 60000,
+    "image": "https://picsum.photos/300?37",
+    "description": "High quality DSLR camera",
+    "url": "product-details.html?id=37"
+  },
+  {
+    "id": 38,
+    "name": "Sony Alpha Mirrorless",
+    "price": 80000,
+    "image": "https://picsum.photos/300?38",
+    "description": "Compact mirrorless camera",
+    "url": "product-details.html?id=38"
+  },
+  {
+    "id": 39,
+    "name": "GoPro Hero 11",
+    "price": 45000,
+    "image": "https://picsum.photos/300?39",
+    "description": "Action camera for adventures",
+    "url": "product-details.html?id=39"
+  },
+  {
+    "id": 40,
+    "name": "DJI Drone Mini",
+    "price": 70000,
+    "image": "https://picsum.photos/300?40",
+    "description": "Compact drone with camera",
+    "url": "product-details.html?id=40"
+  },
+  {
+    "id": 41,
+    "name": "Office Chair",
+    "price": 8000,
+    "image": "https://picsum.photos/300?41",
+    "description": "Ergonomic office chair",
+    "url": "product-details.html?id=41"
+  },
+  {
+    "id": 42,
+    "name": "Study Table",
+    "price": 6000,
+    "image": "https://picsum.photos/300?42",
+    "description": "Wooden study table",
+    "url": "product-details.html?id=42"
+  },
+  {
+    "id": 43,
+    "name": "Gaming Chair",
+    "price": 15000,
+    "image": "https://picsum.photos/300?43",
+    "description": "Comfortable chair for gamers",
+    "url": "product-details.html?id=43"
+  },
+  {
+    "id": 44,
+    "name": "Bookshelf",
+    "price": 5000,
+    "image": "https://picsum.photos/300?44",
+    "description": "Modern wooden bookshelf",
+    "url": "product-details.html?id=44"
+  },
+  {
+    "id": 45,
+    "name": "Wardrobe",
+    "price": 20000,
+    "image": "https://picsum.photos/300?45",
+    "description": "Spacious wardrobe",
+    "url": "product-details.html?id=45"
+  },
+  {
+    "id": 46,
+    "name": "Electric Kettle",
+    "price": 1500,
+    "image": "https://picsum.photos/300?46",
+    "description": "Quick boiling kettle",
+    "url": "product-details.html?id=46"
+  },
+  {
+    "id": 47,
+    "name": "Mixer Grinder",
+    "price": 3000,
+    "image": "https://picsum.photos/300?47",
+    "description": "Powerful kitchen mixer",
+    "url": "product-details.html?id=47"
+  },
+  {
+    "id": 48,
+    "name": "Air Fryer",
+    "price": 7000,
+    "image": "https://picsum.photos/300?48",
+    "description": "Healthy cooking air fryer",
+    "url": "product-details.html?id=48"
+  },
+  {
+    "id": 49,
+    "name": "Microwave Oven",
+    "price": 10000,
+    "image": "https://picsum.photos/300?49",
+    "description": "Compact microwave oven",
+    "url": "product-details.html?id=49"
+  },
+  {
+    "id": 50,
+    "name": "Refrigerator",
+    "price": 25000,
+    "image": "https://picsum.photos/300?50",
+    "description": "Double door fridge",
+    "url": "product-details.html?id=50"
+  },
+  {
+    "id": 51,
+    "name": "Samsung Galaxy S21",
+    "price": 52000,
+    "image": "https://picsum.photos/300?51",
+    "description": "Samsung flagship smartphone with AMOLED display",
+    "url": "product-details.html?id=51"
+  },
+  {
+    "id": 52,
+    "name": "Realme Narzo 50",
+    "price": 15000,
+    "image": "https://picsum.photos/300?52",
+    "description": "Budget gaming smartphone with powerful processor",
+    "url": "product-details.html?id=52"
+  },
+  {
+    "id": 53,
+    "name": "Dell Inspiron Laptop",
+    "price": 62000,
+    "image": "https://picsum.photos/300?53",
+    "description": "Dell laptop with Intel i5 processor and SSD",
+    "url": "product-details.html?id=53"
+  },
+  {
+    "id": 54,
+    "name": "HP Pavilion Laptop",
+    "price": 68000,
+    "image": "https://picsum.photos/300?54",
+    "description": "Stylish HP laptop for everyday performance",
+    "url": "product-details.html?id=54"
+  },
+  {
+    "id": 55,
+    "name": "Boat Rockerz Headphones",
+    "price": 1999,
+    "image": "https://picsum.photos/300?55",
+    "description": "Wireless headphones with deep bass",
+    "url": "product-details.html?id=55"
+  },
+  {
+    "id": 56,
+    "name": "Noise Smart Watch",
+    "price": 2499,
+    "image": "https://picsum.photos/300?56",
+    "description": "Smart watch with fitness tracking features",
+    "url": "product-details.html?id=56"
+  },
+  {
+    "id": 57,
+    "name": "Men's Formal Shirt",
+    "price": 899,
+    "image": "https://picsum.photos/300?57",
+    "description": "Comfortable cotton formal shirt for office wear",
+    "url": "product-details.html?id=57"
+  },
+  {
+    "id": 58,
+    "name": "Women's Saree",
+    "price": 2499,
+    "image": "https://picsum.photos/300?58",
+    "description": "Elegant traditional saree for special occasions",
+    "url": "product-details.html?id=58"
+  },
+  {
+    "id": 59,
+    "name": "Nike Running Shoes",
+    "price": 3999,
+    "image": "https://picsum.photos/300?59",
+    "description": "Lightweight running shoes with great comfort",
+    "url": "product-details.html?id=59"
+  },
+  {
+    "id": 60,
+    "name": "Adidas Sneakers",
+    "price": 3499,
+    "image": "https://picsum.photos/300?60",
+    "description": "Stylish sneakers for casual wear",
+    "url": "product-details.html?id=60"
+  },
+  {
+    "id": 61,
+    "name": "Wooden Study Table",
+    "price": 4500,
+    "image": "https://picsum.photos/300?61",
+    "description": "Durable wooden table for study and work",
+    "url": "product-details.html?id=61"
+  },
+  {
+    "id": 62,
+    "name": "Ergonomic Office Chair",
+    "price": 6500,
+    "image": "https://picsum.photos/300?62",
+    "description": "Comfortable chair with lumbar support",
+    "url": "product-details.html?id=62"
+  },
+  {
+    "id": 63,
+    "name": "Mi LED Smart TV",
+    "price": 29999,
+    "image": "https://picsum.photos/300?63",
+    "description": "Smart TV with Full HD display and apps",
+    "url": "product-details.html?id=63"
+  },
+  {
+    "id": 64,
+    "name": "Sony Bluetooth Speaker",
+    "price": 4999,
+    "image": "https://picsum.photos/300?64",
+    "description": "Portable speaker with high-quality sound",
+    "url": "product-details.html?id=64"
+  },
+  {
+    "id": 65,
+    "name": "Canon DSLR Camera",
+    "price": 45999,
+    "image": "https://picsum.photos/300?65",
+    "description": "Professional DSLR camera with HD recording",
+    "url": "product-details.html?id=65"
+  },
+  {
+    "id": 66,
+    "name": "Kitchen Mixer Grinder",
+    "price": 2999,
+    "image": "https://picsum.photos/300?66",
+    "description": "Multi-purpose mixer grinder for kitchen use",
+    "url": "product-details.html?id=66"
+  },
+  {
+    "id": 67,
+    "name": "Electric Rice Cooker",
+    "price": 1999,
+    "image": "https://picsum.photos/300?67",
+    "description": "Automatic rice cooker with fast cooking",
+    "url": "product-details.html?id=67"
+  },
+  {
+    "id": 68,
+    "name": "Men's Leather Wallet",
+    "price": 699,
+    "image": "https://picsum.photos/300?68",
+    "description": "Premium leather wallet with multiple compartments",
+    "url": "product-details.html?id=68"
+  },
+  {
+    "id": 69,
+    "name": "Women's Handbag",
+    "price": 1599,
+    "image": "https://picsum.photos/300?69",
+    "description": "Stylish handbag for daily use",
+    "url": "product-details.html?id=69"
+  },
+  {
+    "id": 70,
+    "name": "Gym Dumbbells Set",
+    "price": 2499,
+    "image": "https://picsum.photos/300?70",
+    "description": "Perfect dumbbells for home workouts",
+    "url": "product-details.html?id=70"
+  },
+  {
+    "id": 71,
+    "name": "Yoga Mat",
+    "price": 499,
+    "image": "https://picsum.photos/300?71",
+    "description": "Comfortable anti-slip yoga mat",
+    "url": "product-details.html?id=71"
+  },
+  {
+    "id": 72,
+    "name": "Cricket Bat",
+    "price": 1899,
+    "image": "https://picsum.photos/300?72",
+    "description": "High-quality cricket bat for professionals",
+    "url": "product-details.html?id=72"
+  },
+  {
+    "id": 73,
+    "name": "Football",
+    "price": 799,
+    "image": "https://picsum.photos/300?73",
+    "description": "Durable football for outdoor games",
+    "url": "product-details.html?id=73"
+  },
+  {
+    "id": 74,
+    "name": "Steel Water Bottle",
+    "price": 399,
+    "image": "https://picsum.photos/300?74",
+    "description": "Eco-friendly reusable water bottle",
+    "url": "product-details.html?id=74"
+  },
+  {
+    "id": 75,
+    "name": "Hair Dryer",
+    "price": 1299,
+    "image": "https://picsum.photos/300?75",
+    "description": "Compact hair dryer with multiple settings",
+    "url": "product-details.html?id=75"
+  },
+  {
+    "id": 76,
+    "name": "Beard Trimmer",
+    "price": 999,
+    "image": "https://picsum.photos/300?76",
+    "description": "Precision trimmer for grooming",
+    "url": "product-details.html?id=76"
+  },
+  {
+    "id": 77,
+    "name": "Face Wash",
+    "price": 299,
+    "image": "https://picsum.photos/300?77",
+    "description": "Gentle face wash for daily skincare",
+    "url": "product-details.html?id=77"
+  },
+  {
+    "id": 78,
+    "name": "Moisturizer Cream",
+    "price": 399,
+    "image": "https://picsum.photos/300?78",
+    "description": "Hydrating cream for soft skin",
+    "url": "product-details.html?id=78"
+  },
+  {
+    "id": 79,
+    "name": "Sunscreen SPF 50",
+    "price": 499,
+    "image": "https://picsum.photos/300?79",
+    "description": "Protects skin from harmful UV rays",
+    "url": "product-details.html?id=79"
+  },
+  {
+    "id": 80,
+    "name": "Notebook Pack",
+    "price": 199,
+    "image": "https://picsum.photos/300?80",
+    "description": "Set of notebooks for students",
+    "url": "product-details.html?id=80"
+  },
+  {
+    "id": 81,
+    "name": "Ball Pen Set",
+    "price": 149,
+    "image": "https://picsum.photos/300?81",
+    "description": "Smooth writing pens pack",
+    "url": "product-details.html?id=81"
+  },
+  {
+    "id": 82,
+    "name": "Desk Organizer",
+    "price": 499,
+    "image": "https://picsum.photos/300?82",
+    "description": "Keeps your desk neat and organized",
+    "url": "product-details.html?id=82"
+  },
+  {
+    "id": 83,
+    "name": "Wall Clock",
+    "price": 599,
+    "image": "https://picsum.photos/300?83",
+    "description": "Stylish wall clock for home decor",
+    "url": "product-details.html?id=83"
+  },
+  {
+    "id": 84,
+    "name": "Table Lamp",
+    "price": 799,
+    "image": "https://picsum.photos/300?84",
+    "description": "LED table lamp with adjustable brightness",
+    "url": "product-details.html?id=84"
+  },
+  {
+    "id": 85,
+    "name": "Bedsheet Set",
+    "price": 999,
+    "image": "https://picsum.photos/300?85",
+    "description": "Soft cotton bedsheet with pillow covers",
+    "url": "product-details.html?id=85"
+  },
+  {
+    "id": 86,
+    "name": "Curtains",
+    "price": 1299,
+    "image": "https://picsum.photos/300?86",
+    "description": "Decorative curtains for windows",
+    "url": "product-details.html?id=86"
+  },
+  {
+    "id": 87,
+    "name": "Decorative Lights",
+    "price": 899,
+    "image": "https://picsum.photos/300?87",
+    "description": "LED lights for home decoration",
+    "url": "product-details.html?id=87"
+  },
+  {
+    "id": 88,
+    "name": "Laptop Backpack",
+    "price": 1499,
+    "image": "https://picsum.photos/300?88",
+    "description": "Durable backpack with laptop compartment",
+    "url": "product-details.html?id=88"
+  },
+  {
+    "id": 89,
+    "name": "Sunglasses",
+    "price": 799,
+    "image": "https://picsum.photos/300?89",
+    "description": "UV protection stylish sunglasses",
+    "url": "product-details.html?id=89"
+  },
+  {
+    "id": 90,
+    "name": "Leather Belt",
+    "price": 699,
+    "image": "https://picsum.photos/300?90",
+    "description": "Premium quality leather belt",
+    "url": "product-details.html?id=90"
+  },
+  {
+    "id": 91,
+    "name": "Baseball Cap",
+    "price": 399,
+    "image": "https://picsum.photos/300?91",
+    "description": "Casual cap for daily wear",
+    "url": "product-details.html?id=91"
+  },
+  {
+    "id": 92,
+    "name": "Protein Powder",
+    "price": 2499,
+    "image": "https://picsum.photos/300?92",
+    "description": "High-quality protein supplement",
+    "url": "product-details.html?id=92"
+  },
+  {
+    "id": 93,
+    "name": "Skipping Rope",
+    "price": 299,
+    "image": "https://picsum.photos/300?93",
+    "description": "Perfect for cardio workouts",
+    "url": "product-details.html?id=93"
+  },
+  {
+    "id": 94,
+    "name": "Treadmill",
+    "price": 19999,
+    "image": "https://picsum.photos/300?94",
+    "description": "Electric treadmill for home gym",
+    "url": "product-details.html?id=94"
+  },
+  {
+    "id": 95,
+    "name": "Gym Gloves",
+    "price": 499,
+    "image": "https://picsum.photos/300?95",
+    "description": "Comfortable gloves for gym workouts",
+    "url": "product-details.html?id=95"
+  },
+  {
+    "id": 96,
+    "name": "Resistance Bands",
+    "price": 799,
+    "image": "https://picsum.photos/300?96",
+    "description": "Elastic bands for strength training",
+    "url": "product-details.html?id=96"
+  },
+  {
+    "id": 97,
+    "name": "Smart LED Bulb",
+    "price": 899,
+    "image": "https://picsum.photos/300?97",
+    "description": "WiFi-enabled smart bulb",
+    "url": "product-details.html?id=97"
+  },
+  {
+    "id": 98,
+    "name": "USB Type-C Charger",
+    "price": 599,
+    "image": "https://picsum.photos/300?98",
+    "description": "Fast charging USB-C adapter",
+    "url": "product-details.html?id=98"
+  },
+  {
+    "id": 99,
+    "name": "Portable SSD 512GB",
+    "price": 4999,
+    "image": "https://picsum.photos/300?99",
+    "description": "High-speed external storage device",
+    "url": "product-details.html?id=99"
+  },
+  {
+    "id": 100,
+    "name": "Wireless Mouse",
+    "price": 799,
+    "image": "https://picsum.photos/300?100",
+    "description": "Ergonomic wireless mouse",
+    "url": "product-details.html?id=100"
+  },
+    {
+    "id": 101,
+    "name": "Iphone 17",
+    "price": 79999,
+    "image": "https://picsum.photos/300?101",
+    "description": "High-speed external storage device",
+    "url": "product-details.html?id=99"
+  },
+  {
+    "id": 102,
+    "name": "Puma Shoes",
+    "price": 1799,
+    "image": "https://picsum.photos/300?102",
+    "description": "Ergonomic wireless mouse",
+    "url": "product-details.html?id=100"
+  }
+]
